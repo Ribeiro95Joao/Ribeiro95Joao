@@ -4,6 +4,8 @@
 
 - 🔭 Apaixonado por Tecnologia, Ciência e Programação
 - 🌱 Engenheiro e Estudante de Análise e Desenvolvimento de Sistemas
+  
+  Atualmente estou estudando a linguagem Java e bancos de dados relacionais.
 </div>
 <div align="left">
   <a href="https://github.com/Ribeiro95Joao">
